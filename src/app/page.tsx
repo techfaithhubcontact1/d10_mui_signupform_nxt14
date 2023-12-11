@@ -40,7 +40,7 @@ function Home() {
             </Grid>
 
             <Grid item xs={12} sm={12}>
-              <TextField name="email" label="Enter Email Address" id="email" autoComplete="email" margin="mormal" fullWidth required />
+              <TextField name="email" label="Enter Email Address" id="email" autoComplete="email" margin="normal" fullWidth required />
             </Grid>
 
             <Grid item xs={12} sm={12}>
