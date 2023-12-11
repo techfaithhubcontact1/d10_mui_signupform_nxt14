@@ -39,11 +39,11 @@ function Home() {
               <TextField margin="normal" fullWidth name="lname" autoComplete="Last Name" label="Last Name" id="fname" required />
             </Grid>
 
-            <Grid item xs={12}>
+            <Grid item xs={12} sm={12}>
               <TextField name="email" label="Enter Email Address" id="email" autoComplete="email" margin="mormal" fullWidth required />
             </Grid>
 
-            <Grid item xs={12}>
+            <Grid item xs={12} sm={12}>
               <TextField label="Enter Password" type="password" id="password" name="password" autoComplete="password" margin="normal" fullWidth required/>
             </Grid>
 
